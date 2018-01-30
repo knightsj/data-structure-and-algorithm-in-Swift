@@ -9,14 +9,20 @@
 
 Data structure and algorithm implementation in Swift language.
 
-## Chapters
+
+
+## Implementation Code
 
 **[1].Swift syntax**：Introduction of some basic Swift syntax which will be used in data structure and algorithm implementation.
+
 **[2].Data structure**: Introduction of data structure and implementation of linked list, stack and queue.
 
 keep updating...
 
+
+
 ## Chinese Documents
+
 
 
 ## License
