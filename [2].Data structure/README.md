@@ -326,9 +326,6 @@ public struct Stack<T> {
 ## Queue
 
 ```swift
-// ===================== queue  ===================== //
-
-
 public struct Queue<T> {
     
     //array
