@@ -220,7 +220,7 @@ public class LinkedList<T> {
         }
         
         let node = self.node(atIndex: index)
-        guard node == nil else {
+        guard node != nil else {
             return nil
         }
         return remove(node: node!)
@@ -306,6 +306,7 @@ list.removeAt(1)
 list.printAllNodes()
 //[0]language
 //[1]great
+
 
 list.removeLast()
 list.printAllNodes()
