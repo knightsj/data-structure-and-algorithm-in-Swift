@@ -223,7 +223,7 @@ public class LinkedList<T> {
         }
         
         let node = self.node(atIndex: index)
-        guard node == nil else {
+        guard node != nil else {
             return nil
         }
         return remove(node: node!)
