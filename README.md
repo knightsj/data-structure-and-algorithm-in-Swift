@@ -24,6 +24,16 @@ All of the implementation code are  in Swift playground files:
 **[2].Data structure**: Introduction of data structure and implementation of **linked list**, **stack** and **queue**.
 
 
+
+**[3].Algorithm**: Simple algorithm implementation.
+
+
+
+**[4]:Sort Algorithms**: Swift code implementation of bubble sort, selection sort, insertion sort, merge sort and quick sort.
+
+
+
+
 Keep updating...
 
 
