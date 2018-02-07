@@ -342,6 +342,19 @@ func quickSort2(_ array: inout [Int], low: Int, high: Int){
 #### 3-way quick sort 
 
 ```swift
+//only for swapping two elements in array
+func swap(_ arr: inout [Int],  _ j: Int, _ k: Int) {
+    
+    guard j != k else {
+        return;
+    }
+    
+    let temp = arr[j]
+    arr[j] = arr[k]
+    arr[k] = temp
+}
+
+
 func quickSort3W(_ array: inout [Int], low: Int, high: Int) {
     
     if high <= low { return }
