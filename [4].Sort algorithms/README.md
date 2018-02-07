@@ -1,4 +1,4 @@
-#  Sort algorithms
+#  Sort Algorithms
 
 
 
