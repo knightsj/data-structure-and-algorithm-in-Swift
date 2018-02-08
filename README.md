@@ -42,7 +42,11 @@ Keep updating...
 
 
 
-[[1]. 数据结构 & 算法 in Swift （一）：Swift基础和数据结构](http://localhost:4000/2018/01/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%20&%20%E7%AE%97%E6%B3%95%20in%20Swift%20%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9ASwift%20%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E4%B8%8E%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9A%84%E5%AE%9E%E7%8E%B0/)
+[1]. [ 数据结构 & 算法 in Swift （一）：Swift基础和数据结构](http://localhost:4000/2018/01/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%20&%20%E7%AE%97%E6%B3%95%20in%20Swift%20%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9ASwift%20%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E4%B8%8E%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9A%84%E5%AE%9E%E7%8E%B0/)
+
+[2].  [数据结构 & 算法 in Swift （二）：算法概述和排序算法](https://juejin.im/post/5a7b4101f265da4e7071b097)
+
+
 
 
 

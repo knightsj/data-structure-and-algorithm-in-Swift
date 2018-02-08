@@ -67,16 +67,20 @@ func findTwoSumOptimized(_ array: [Int], target: Int) -> (Int, Int)? {
     var diffs = Dictionary<Int, Int>()
     
     for i in 0..<array.count {
+        
         let left = array[i]
         
         let right = target - left
         
         if let foundIndex = diffs[right] {
             return (i, foundIndex)
+            
         } else {
+            
             diffs[left] = i
         }
     }
+    
     
     return nil
 }
